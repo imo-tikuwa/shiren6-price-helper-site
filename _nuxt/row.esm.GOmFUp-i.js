@@ -1,1 +1,0 @@
-import{G as r}from"./entry.CN8R2ev-.js";var o={name:"Row",extends:r,inject:["$rows"],mounted:function(){var t;(t=this.$rows)===null||t===void 0||t.add(this.$)},unmounted:function(){var t;(t=this.$rows)===null||t===void 0||t.delete(this.$)},render:function(){return null}};export{o as default};
