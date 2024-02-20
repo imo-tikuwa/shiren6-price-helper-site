@@ -1,0 +1,1 @@
+import{Q as t,W as n}from"./entry.B1gwfetv.js";var r={},s={name:"BaseInputIcon",extends:t,style:r,provide:function(){return{$parentInstance:this}}},a={name:"InputIcon",extends:s};function o(e,p,c,d,i,u){return n(e.$slots,"default")}a.render=o;export{a as default};
