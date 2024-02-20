@@ -1,0 +1,1 @@
+import{N as t,T as n}from"./entry.4Unyay7u.js";var r={},s={name:"BaseInputIcon",extends:t,style:r,provide:function(){return{$parentInstance:this}}},a={name:"InputIcon",extends:s};function o(e,p,c,d,i,u){return n(e.$slots,"default")}a.render=o;export{a as default};
