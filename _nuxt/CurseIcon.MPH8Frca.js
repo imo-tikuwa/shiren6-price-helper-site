@@ -1,1 +1,0 @@
-import o from"./Icon.BT8Ny-SB.js";import{I as n,o as s,z as c,u as r}from"./entry.BrV7uw3F.js";const p={__name:"BlessingIcon",setup(t){const e=n(o,{name:"fluent-emoji-flat:bell",size:"14"});return(a,_)=>(s(),c(r(e)))}},l={__name:"CurseIcon",setup(t){const e=n(o,{name:"ph:skull-duotone",size:"15",color:"#a605e2"});return(a,_)=>(s(),c(r(e)))}};export{p as _,l as a};
